@@ -1,7 +1,7 @@
 pragma solidity ^0.4.18;
 
 /**
- * @title SafeMath
+ * @title SafeMath2
  * @dev Math operations with safety checks that throw on error
  */
 library SafeMath {
