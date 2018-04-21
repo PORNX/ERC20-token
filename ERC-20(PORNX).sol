@@ -13,7 +13,7 @@ library SafeMath {
     if (a == 0) {
       return 0;
     }
-    uint256 c = a * b;
+    uint256 c = a * b1;
     assert(c / a == b);
     return c;
   }
