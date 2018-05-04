@@ -4,7 +4,7 @@ pragma solidity ^0.4.18;
  * @title SafeMath
  * @dev Math operations with safety checks that throw on error
  */
-library SafeMath {122
+library SafeMath {1223
 
   /**
   * @dev Multiplies two numbers, throws on overflow.
